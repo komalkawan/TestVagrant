@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="204158" started-at="2020-10-14T09:59:00Z" finished-at="2020-10-14T10:02:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="204158" started-at="2020-10-14T09:59:00Z" finished-at="2020-10-14T10:02:24Z">
+      <class name="TestVagrant.TV.TVTest">
+        <test-method status="PASS" signature="execute()[pri:0, instance:TestVagrant.TV.TVTest@685cb137]" name="execute" duration-ms="203832" started-at="2020-10-14T09:59:00Z" finished-at="2020-10-14T10:02:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- TestVagrant.TV.TVTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
